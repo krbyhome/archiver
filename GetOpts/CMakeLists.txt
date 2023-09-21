@@ -1,0 +1,1 @@
+add_library(get_options get_options.cpp get_options.h)

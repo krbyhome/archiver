@@ -1,0 +1,6 @@
+Archive structure:
+1. size of File1 and it's name
+2. File1's name
+3. File data
+4. size of File2 and it's name 
+5. and so on...

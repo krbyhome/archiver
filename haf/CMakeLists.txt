@@ -1,0 +1,1 @@
+add_library(haf haf.cpp haf.h)
